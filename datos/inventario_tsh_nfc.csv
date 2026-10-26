@@ -1,0 +1,16 @@
+id_activo,nombre,nfc,ubicacion,mantenimientos
+A001,Computador Dell,NFC001,Lab 101,2
+A002,Proyector Epson,NFC002,Aula 202,1
+A003,Impresora HP,,Oficina 1,3
+A004,Router Cisco,NFC004,,0
+A005,Portátil Lenovo,NFC002,Lab 103,2
+A006,Monitor Samsung,NFC006,Lab 101,1
+A007,Switch TP-Link,NFC007,Sala de redes,1
+A008,Tablet Samsung,,Aula 201,0
+A009,Computador ASUS,NFC009,Lab 102,4
+A010,Impresora Epson,NFC010,Biblioteca,2
+A011,Portátil HP,NFC009,Lab 104,3
+A012,Servidor Dell,NFC012,Sala de servidores,5
+A013,Proyector BenQ,,Aula 203,1
+A014,Escáner Canon,NFC014,,0
+A015,Monitor LG,NFC015,Lab 102,2
